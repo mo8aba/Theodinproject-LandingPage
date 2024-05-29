@@ -58,7 +58,7 @@ a{
 
 .subheader{
     display: flex;
-    background-color: darkblue;
+    background-color:#1f2937;
     gap:60px;
     padding:100px 135px;
     color: #FFF;
@@ -111,7 +111,7 @@ a{
     background-color: gray;
     width: 500px;
     height: 250px;
-    border: 1px black solid;
+    border-radius: 5px;
 }
 .container{
     display: flex;
@@ -135,6 +135,7 @@ a{
     justify-content: center;
     gap: 52px;
 }
+
 .text{
     margin-top: 10px;
     max-width: 140px;
@@ -150,6 +151,7 @@ a{
     width: 150px;
     height: 100px;
     border: 1px black solid;
+    border-radius: 10px;
 }
 
 .qoute{
@@ -164,7 +166,7 @@ a{
 
 .qoute-text{
     display: flex;
-    
+    max-width: 60%;
     padding: 40px;
     justify-self: center;
     align-self: center;

@@ -156,6 +156,7 @@ a{
 
 .qoute{
     background-color: lightgray;
+    border-radius: 5px;
     min-height: 300px;
     margin: 70px 40px;
     display: flex;
